@@ -13,6 +13,8 @@
 
 .movie-page .movie-card {
   text-align: center;
+  background-color: #111;
+  padding: 1rem;
 }
 
 .movie-page .movie-card img,
@@ -36,6 +38,7 @@
   text-align: center;
   font-size: 1.3rem;
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .info {
